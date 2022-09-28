@@ -22,3 +22,4 @@ Pivot table was used to analyse our data to create the various measure for the d
 A dashboard mockup was drawn to determine where each element of the dashboard will be placed before placing them in.
 
 ![Screenshot 2022-08-18 221506](https://user-images.githubusercontent.com/108795960/192860131-3b618ce7-5f18-4108-b9f7-20f541fd1d2b.png)
+[View File and Dashboard Here](https://github.com/theadewole/Personal_Finance/blob/main/Financial%20Dashboard.xlsx)
